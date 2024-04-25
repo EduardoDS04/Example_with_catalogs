@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Example_with_catalogs</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtPass">Password</string>
+</resources>
